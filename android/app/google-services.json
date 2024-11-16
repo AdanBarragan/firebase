@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8731740027",
+    "project_id": "basededatos-c4252",
+    "storage_bucket": "basededatos-c4252.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8731740027:android:272ce035e58b1c892e9fde",
+        "android_client_info": {
+          "package_name": "com.adanjacob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5PkaMkhGyMy2Aqm-prUGKZh2VE4ilSxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
